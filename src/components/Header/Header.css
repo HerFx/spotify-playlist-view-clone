@@ -1,0 +1,17 @@
+.header{
+    width: calc(100% - 13vw);
+    height: 100vh;
+    position: relative;
+    left: 13vw;
+    top: 0;
+    background: linear-gradient(transparent, rgba(0,0,0,1));
+    background-color: #f05040;
+}
+
+.album{
+    width: 192px;
+    height: 192px;
+    object-fit: cover;
+}
+
+
