@@ -21,12 +21,12 @@
 
 .icon{
 color: #1ED760;
-font-size: 4rem;
+font-size: 4rem !important;
 }
 
 .icon2{
 color: #CBBCBB;
-font-size: 2.6rem;
+font-size: 2.6rem !important;
 }
 
 .playlist_list{
