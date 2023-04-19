@@ -36,7 +36,7 @@
 
 .playlist{
   width: calc(100% - 13vw);
-  height: 100vh;
+  min-height: 100vh;
   position: relative;
   left: 13vw;
   top: 0;
